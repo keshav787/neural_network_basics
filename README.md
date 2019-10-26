@@ -1,5 +1,5 @@
 # Neural Network Basics
-Basics of Neural Network , gradient descent, hands on mini project   
+Basics of Neural Network , gradient descent, hands on mini project. It was a part of Deep learning Nanodegree by [Udacity](https://udacity.com)
 
 This repo contains the following notebooks:  
 
